@@ -21,7 +21,7 @@ Ensure you have Node version 18.x.x installed.
 
 Getting Started
 1. Clone the repository:
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/Rouaa-Belhaj-Ali/NewtonAI.git
 
 2. Install packages:
    npm i
