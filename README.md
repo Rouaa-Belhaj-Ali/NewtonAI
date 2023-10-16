@@ -1,7 +1,7 @@
 # NewtonAI
 AI-Powered SaaS Platform: Leveraging Next.js 13, React, Tailwind, Prisma, Stripe
 
-## Project Status
+## Project Status :Work in Progress**
 
 This project is actively under development and is a work in progress. It is not yet considered a finished product, and new features and improvements are continuously being added. You can expect updates and changes as we make progress.
 
