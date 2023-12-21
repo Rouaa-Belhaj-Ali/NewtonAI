@@ -1,3 +1,9 @@
+
+![zss](https://github.com/Rouaa-Belhaj-Ali/NewtonAI/assets/68033931/06af1f58-9676-4e1a-920e-3d7234750125)
+
+
+
+
 # NewtonAI
 AI-Powered SaaS Platform: Leveraging Next.js 13, React, Tailwind, Prisma, Stripe
 
