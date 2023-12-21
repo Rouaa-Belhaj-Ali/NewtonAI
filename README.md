@@ -4,6 +4,7 @@ AI-Powered SaaS Platform: Leveraging Next.js 13, React, Tailwind, Prisma, Stripe
 ## Project Status :Work in Progress**
 
 This project is actively under development and is a work in progress. It is not yet considered a finished product, and new features and improvements are continuously being added. You can expect updates and changes as we make progress.
+![zss](https://github.com/Rouaa-Belhaj-Ali/NewtonAI/assets/68033931/4a5f969b-39ec-473c-8c22-dac2e51da7b8)
 
 
 Key Features:
